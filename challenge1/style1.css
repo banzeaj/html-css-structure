@@ -4,3 +4,23 @@
     box-sizing: border-box;
      
 }
+
+.box1 {
+
+    border: 5px solid red;
+    background-color: #23424a;
+    color: #fff;
+    padding: 15px;
+
+}
+
+.child-box {
+
+    border: 5px solid purple;
+    width: 60%;
+
+}
+
+p {
+    border: 5px solid orange;
+}
