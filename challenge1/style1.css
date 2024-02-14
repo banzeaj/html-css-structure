@@ -24,3 +24,14 @@
 p {
     border: 5px solid orange;
 }
+
+.box2{
+     background-color: aqua;
+     padding: 20px ;
+}
+
+.box2-child {
+    background-color: bisque;
+    padding: 100px;
+
+}
