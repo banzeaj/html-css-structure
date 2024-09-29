@@ -1,13 +1,13 @@
 # html-css-structure
 
-1 HTML Input Type 
+HTML Input Type 
 
- input type = "text"--------my text field
- input type = "text"--------
- input type = "text"--------
- input type = "text"--------
- input type = "text"--------
- input type = "text"--------
- input type = "text"--------
- input type = "text"--------
- input type = "text"--------
+1. nput type = "text"--------my text field
+2. input type = "text"--------
+3. input type = "text"--------
+4. input type = "text"--------
+5. input type = "text"--------
+6. input type = "text"--------
+7. input type = "text"--------
+8. input type = "text"--------
+9. input type = "text"--------
