@@ -1,5 +1,6 @@
 # html-css-structure
 
-# HTML Input Type 
+1 HTML Input Type 
 
-<input type = "text">--------my text field 
+ <!--<input type = "text">--------my text field-->
+ 2 
