@@ -3,4 +3,11 @@
 1 HTML Input Type 
 
  input type = "text"--------my text field
- 2 
+ input type = "text"--------
+ input type = "text"--------
+ input type = "text"--------
+ input type = "text"--------
+ input type = "text"--------
+ input type = "text"--------
+ input type = "text"--------
+ input type = "text"--------
