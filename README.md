@@ -2,7 +2,7 @@
 
 HTML Input Type 
 
-1. nput type = "text"--------my text field
+1. <input type = "text">--------my text field
 2. input type = "text"--------
 3. input type = "text"--------
 4. input type = "text"--------
